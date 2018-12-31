@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="76150" started-at="2018-12-08T07:41:56Z" finished-at="2018-12-08T07:43:13Z">
+  <suite name="Suite" duration-ms="42083" started-at="2018-12-08T07:59:49Z" finished-at="2018-12-08T08:00:31Z">
     <groups>
     </groups>
-    <test name="chromeTest" duration-ms="76150" started-at="2018-12-08T07:41:56Z" finished-at="2018-12-08T07:43:13Z">
+    <test name="chromeTest" duration-ms="42083" started-at="2018-12-08T07:59:49Z" finished-at="2018-12-08T08:00:31Z">
       <class name="testcases.executeTestThroughTestNg">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:testcases.executeTestThroughTestNg@3532ec19]" name="setup" is-config="true" duration-ms="30503" started-at="2018-12-08T07:41:56Z" finished-at="2018-12-08T07:42:27Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:testcases.executeTestThroughTestNg@3532ec19]" name="setup" is-config="true" duration-ms="13258" started-at="2018-12-08T07:59:49Z" finished-at="2018-12-08T08:00:03Z">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="executeTest()[pri:0, instance:testcases.executeTestThroughTestNg@3532ec19]" name="executeTest" duration-ms="44443" started-at="2018-12-08T07:42:27Z" finished-at="2018-12-08T07:43:12Z">
+        <test-method status="PASS" signature="executeTest()[pri:0, instance:testcases.executeTestThroughTestNg@3532ec19]" name="executeTest" duration-ms="27849" started-at="2018-12-08T08:00:03Z" finished-at="2018-12-08T08:00:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- executeTest -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:testcases.executeTestThroughTestNg@3532ec19]" name="teardown" is-config="true" duration-ms="846" started-at="2018-12-08T07:43:12Z" finished-at="2018-12-08T07:43:13Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:testcases.executeTestThroughTestNg@3532ec19]" name="teardown" is-config="true" duration-ms="725" started-at="2018-12-08T08:00:31Z" finished-at="2018-12-08T08:00:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
